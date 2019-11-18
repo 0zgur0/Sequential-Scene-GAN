@@ -11,7 +11,7 @@ In AAAI. 2019.
 
 <img src="https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png" width="600" height="360">
 
-# Citation
+## Citation
 ```bash
 @inproceedings{turkoglu2019layer,
   title={A Layer-Based Sequential Framework for Scene Generation with GANs},
