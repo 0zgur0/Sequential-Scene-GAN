@@ -10,3 +10,12 @@ In AAAI. 2019.
 
 
 ![alt text](https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png)
+
+If you find this code useful for your research; please cite our paper:
+
+@inproceedings{turkoglu2019layer,
+  title={A Layer-Based Sequential Framework for Scene Generation with GANs},
+  author={Turkoglu, Mehmet Ozgur and Spreeuwers, Luuk and Thong, William and Kicanaoglu, Berkay},
+  booktitle={Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19)},
+  year={2019}
+}
