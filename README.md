@@ -9,10 +9,10 @@ In AAAI. 2019.
 
 
 
-![alt text](https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png)
+![alt text](https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png| width=100)
 
 
-If you find this code useful for your research; please cite our paper:
+If you find this code useful for your research, please cite our paper.
 ```bash
 @inproceedings{turkoglu2019layer,
   title={A Layer-Based Sequential Framework for Scene Generation with GANs},
