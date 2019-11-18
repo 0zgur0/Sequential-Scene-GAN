@@ -9,7 +9,6 @@ In AAAI. 2019.
 
 
 
-![](https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png )
 <img src="https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png" width="600" height="360">
 
 If you find this code useful for your research, please cite our paper.
