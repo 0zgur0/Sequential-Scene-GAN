@@ -9,7 +9,7 @@ In AAAI. 2019.
 
 
 
-![](https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png | width=100)
+![](https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png )
 
 
 If you find this code useful for your research, please cite our paper.
