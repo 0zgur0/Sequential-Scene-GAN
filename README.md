@@ -1,6 +1,6 @@
 # Sequential Scene Generation using GANs
 
-Pytorch implementation for sequential scene generation using GANs based on the following paper:
+Pytorch implementation for sequential image generation using GANs based on our AAAI 2019 paper:
 
 Turkoglu, MO, et al. " A Layer-Based Sequential Framework for Scene Generation with GANs. " 
 In AAAI. 2019.
