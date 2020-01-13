@@ -11,6 +11,21 @@ In AAAI. 2019.
 
 <img src="https://raw.githubusercontent.com/0zgur0/Seq_Scene_Gen/master/imgs/intro.png" width="600" height="360">
 
+Background model can be trained with 
+```bash
+python train_bg_model.py
+```
+
+Foreground model can be trained with 
+```bash
+python train_fg_model.py
+```
+
+Baseline model can be trained with 
+```bash
+python train_baseline_model.py
+```
+
 ## Citation
 ```bash
 @inproceedings{turkoglu2019layer,
