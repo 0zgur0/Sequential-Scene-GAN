@@ -1,4 +1,4 @@
-## Sequential Image Generation using GANs
+### Sequential Image Generation using GANs
 
 Pytorch implementation for sequential image generation using GANs based on our AAAI 2019 paper:
 
